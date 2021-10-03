@@ -1,0 +1,11 @@
+{
+  "city_name": {
+    "required": true,
+    "validations": {
+      "required": {
+        "value": "true",
+        "message": "City is required"
+      }
+    }
+  }
+}
